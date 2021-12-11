@@ -1,0 +1,2 @@
+# latihanGIT
+repo latihan GIT
